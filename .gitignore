@@ -67,3 +67,6 @@ temp/
 # -------------------------
 *.sqlite3
 *.db
+
+stock
+stock.pub
